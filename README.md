@@ -30,7 +30,7 @@ This project is Pawan Bagga's portfolio website built on the MERN (MongoDB, Expr
 - Responsive design
 - Project showcase
 - Skills and expertise display
-- [Any other features]
+- CMS Dashboard 
 
 ## Installation
 
