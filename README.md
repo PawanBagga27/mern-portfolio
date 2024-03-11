@@ -43,4 +43,5 @@ This project is Pawan Bagga's portfolio website built on the MERN (MongoDB, Expr
    npm install
 
    npm start
-
+2. For development and Debug
+   npm run watch
